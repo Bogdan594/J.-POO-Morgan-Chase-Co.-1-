@@ -1,0 +1,53 @@
+commit 50a30cb393830256bf8df4c3e069bfd1923193eb
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Wed Dec 18 16:35:30 2024 +0200
+
+    The end
+
+commit fe1385dfe543b460e230897c74e34eee0a9d399f
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Mon Dec 16 15:53:24 2024 +0200
+
+    a bit of checkstyle done
+
+commit 8bd1ab44b9aa484b39e0be67cd4ae251bd947ead
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Mon Dec 16 14:57:40 2024 +0200
+
+    added factory design
+
+commit 491d0cc0e14d66031401e2236424f9defe1aaaf3
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Sun Dec 15 21:49:18 2024 +0200
+
+    update on transaction, added an "account" field for each
+
+commit 15b44a03506c030ac9d4f2a28f86c6d1128f54ae
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Sat Dec 14 18:50:40 2024 +0200
+
+    almost done implementing exception cases
+
+commit 6ee5370b871f4b7017d745694bb4adfea3bcb264
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Thu Dec 12 18:06:35 2024 +0200
+
+    splitPayment done
+
+commit b65bcd3e8cfbccd2487b8529f08bf4b5f390dd59
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Thu Dec 12 18:06:27 2024 +0200
+
+    splitPayment done
+
+commit 96579ddc103227643e55f12d5d5567781aec72b4
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Mon Dec 9 15:17:50 2024 +0200
+
+    first commit
+
+commit ec52bb2466fa89ff4cafdc82057ee712f21fc36b
+Author: Andrei Bogdan <bogdan.andrei0509@stud.acs.upb.ro>
+Date:   Mon Dec 9 15:16:54 2024 +0200
+
+    first commit
